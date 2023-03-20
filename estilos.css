@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Zeyada&display=swap');
 
 body{
@@ -11,7 +12,6 @@ body{
 header,section{
     border-radius: 0px 0px 15px 15px;
     border: 1px solid black;
-
     margin: auto;
 }
 header{
@@ -120,5 +120,6 @@ input[type="checkbox"] {
   }
 
 
+ 
  
  
